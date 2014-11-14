@@ -1,2 +1,7 @@
-beep -l 1000 
-beep -f 3999 -l 30 -r 5
+beep -f 19999 -l 375
+beep -f 1175 -l 375 
+beep -f 1319 -l 188 
+beep -f 1047 -l 188 
+beep -f 1175 -l 1250 
+
+
