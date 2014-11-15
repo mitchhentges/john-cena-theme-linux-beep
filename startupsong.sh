@@ -1,15 +1,16 @@
 #!/bin/bash
 
-beep -f 659 -l 375
-beep -f 1175 -l 375 
-beep -f 1319 -l 188 
-beep -f 1047 -l 377 
-beep -f 1175 -l 1250 
+beep -f  659.25 -l 375
+beep -f 1174.66 -l 375 
+beep -f 1318.51 -l 188 
+beep -f 1046.50 -l 377 
+beep -f 1174.66 -l 1500 
+beep -f 19999 -l 375
 
-beep -f 659 -l 375 
-beep -f 1397 -l 375
-beep -f 1319 -l 188
-beep -f 1047 -l 377
-beep -f 1175 -l 1250
+beep -f  659.25 -l 375
+beep -f 1396.91 -l 375
+beep -f 1318.51 -l 188
+beep -f 1046.50 -l 377
+beep -f 1174.66 -l 1500
 
 exit 0
